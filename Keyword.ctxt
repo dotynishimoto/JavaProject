@@ -1,0 +1,23 @@
+#BlueJ class context
+comment0.params=anyWord
+comment0.target=Keyword(java.lang.String)
+comment0.text=\r\n\ Constructors\r\n
+comment1.params=
+comment1.target=java.lang.String\ getWord()
+comment1.text=\r\n\ return\ the\ word\r\n
+comment2.params=anyChar
+comment2.target=java.lang.Boolean\ TryChar(java.lang.Character)
+comment2.text=\r\n\ Try\ a\ character\r\n
+comment3.params=
+comment3.target=int\ countError()
+comment3.text=\r\n\ count\ number\ of\ mistakes.\r\n
+comment4.params=
+comment4.target=java.lang.String\ getMaskedText()
+comment4.text=\r\n\ method\ to\ show\ the\ character\ that\ was\ guessed\ right\ and\ its\ own\ position.\r\n
+comment5.params=
+comment5.target=java.lang.String\ getWrong()
+comment5.text=\r\n\ method\ to\ make\ a\ list\ of\ the\ characters\ guessed\ and\ was\ not\ right.\r\n
+comment6.params=
+comment6.target=java.lang.Boolean\ completed()
+comment6.text=\r\n\ method\ when\ you\ complete\ the\ game\r\n
+numComments=7

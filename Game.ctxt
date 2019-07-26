@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.params=
+comment0.target=Game()
+comment0.text=\r\n\ Constructors\r\n
+comment1.params=
+comment1.target=void\ setWord()
+comment1.text=\r\n\ method\ to\ let\ the\ first\ player\ choose\ a\ word.\r\n
+comment2.params=
+comment2.target=void\ gameIteration()
+comment2.text=\r\n\ where\ the\ game\ begins\r\n
+numComments=3
